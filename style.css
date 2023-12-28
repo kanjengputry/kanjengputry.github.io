@@ -1,0 +1,19 @@
+div {
+    border: 2px solid black;
+    width: 300px;
+    height: 400px;
+    background-color: pink;
+    margin: 100px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+
+
+}  
+
+image {
+    width: 30%;
+    height: 30%;
+    margin: 100px; auto;
+
+}
